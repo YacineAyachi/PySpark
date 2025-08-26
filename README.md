@@ -1,3 +1,7 @@
+Huge thanks to Professor https://github.com/andfanilo part teacher, part coding wizard, all legend 🧙‍♂️
+
+You can access the assignment details and instructions at the following link: https://andfanilo.github.io/lyon2
+
 # Pyspark tutorial
 
 Welcome to the Pyspark tutorial section.
